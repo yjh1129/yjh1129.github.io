@@ -17,9 +17,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yjh1129.github.io" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: Lucas Gatsas @ spacedig.ch 
+author: yjh1129 
 twitter_username: yourtwitter
-github_username:  yourgithub
+github_username:  yjh1129
 company_name: yourname
 
 # Build settings
